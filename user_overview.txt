@@ -1,0 +1,31 @@
+--------------------------------------------------------------------------------
+User Overview
+Total number of users:  3
+Total number of tasks:  3
+--------------------------------------------------------------------------------
+User: admin
+--------------------------------------------------------------------------------
+Total number of tasks assigned to user: 1
+Percentage of tasks assigned to user:   33.33333333333333%
+Percentage of tasks completed by user:  100.0%
+Percentage of tasks still to be completed by user:  0.0%
+Percentage of tasks that are overdue:   0.0%
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+User: emily
+--------------------------------------------------------------------------------
+Total number of tasks assigned to user: 1
+Percentage of tasks assigned to user:   33.33333333333333%
+Percentage of tasks completed by user:  0.0%
+Percentage of tasks still to be completed by user:  100.0%
+Percentage of tasks that are overdue:   0.0%
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+User: terry
+--------------------------------------------------------------------------------
+Total number of tasks assigned to user: 1
+Percentage of tasks assigned to user:   33.33333333333333%
+Percentage of tasks completed by user:  0.0%
+Percentage of tasks still to be completed by user:  100.0%
+Percentage of tasks that are overdue:   0.0%
+--------------------------------------------------------------------------------
