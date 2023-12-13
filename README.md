@@ -1,6 +1,6 @@
 # Task-Manager
-# HyperionDev Level 1 Capstone Project II & III
-The HyperionDev Level 1 Capstone Project II & III is a program designed for a small business to assign and manage tasks for team members.
+# HyperionDev Capstone Project - Task Management Program
+This Capstone Project is a program designed for a small business to assign and manage tasks for team members.
 
 ## Log In Section
 - Asks the user to enter their username and verifies it against the data in the user.txt file
